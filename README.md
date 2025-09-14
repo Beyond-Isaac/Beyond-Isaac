@@ -12,8 +12,7 @@
 </p>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lguu.gomess/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-gomes-da-silva-517533300/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oakkj_/?next=%2Fexplore%2F)
 
 
 **<!-- GIF -->**
@@ -21,19 +20,14 @@
   **<img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">**
 **</p>**
   
-  <!-- Skills: Tools & Frameworks -->
+  <!-- Skills or my habilidades: Tools -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Tools</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
-<p align="center">
-  Desenvolvedor Front-End e Back-End.
-</p>
-
-
 <div align="center">
-    <img src="https://giffiles.alphacoders.com/398/3987.gif" width="7=560" height="560" alt="Anime nature" />
+    <img src="https://giffiles.alphacoders.com/473/4731.gif" width="7=560" height="560" alt="Anime nature" />
   </a>
 </div>
 
