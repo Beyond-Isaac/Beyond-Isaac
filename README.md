@@ -6,32 +6,37 @@
 </p>
 
 <!-- Contato / Links -->
-<p align="center">
-  <a href="https://www.instagram.com/oakkj_/" target="_blank">
+<p align="center"> 
+  <a href="https://www.instagram.com/oakkj_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/isaac-carvalho-b697b129b/" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/isaac-carvalho-b697b129b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seuemail@email.com" target="_blank">
-    <img src="https://www.linkedin.com/in/isaac-carvalho-b697b129b/" alt="Email"/>
+  &nbsp;&nbsp;
+ <a href="isaacvcarv4lho@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<div align="center">
+<div align="center"> <br> <br> 
   <img src="https://giffiles.alphacoders.com/473/4731.gif" alt="GIF animado" width="560" height="560"/>
+  <br> <br>
 </div>
 
 ---
 
-<h1 align="center">🛠️ Skills & Tools</h1>
+<h2 align="center">🛠️ Skills & Tools <br> <br> </h2>
 
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<p align="center"> <br> <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
+  <br> <br>
 </p>
 
 ---
