@@ -5,7 +5,6 @@
   I'm currently learning and looking for my first job opportunity.
 </p>
 
-<!-- Contato / Links -->
 <p align="center"> 
   <a href="https://www.instagram.com/oakkj_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -48,6 +47,7 @@
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
 </p>
+
 
 ---
 
