@@ -17,7 +17,7 @@
 
 **<!-- GIF -->**
 **<p align="left">**
-  **<img align="center" src="https://giffiles.alphacoders.com/473/4731.gif" alt="tree">**
+  **<img align-items="center" src="https://giffiles.alphacoders.com/473/4731.gif" alt="tree">**
 **</p>**
   
   <!-- Skills or my habilidades: Tools -->
