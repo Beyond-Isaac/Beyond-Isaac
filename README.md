@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-    <img src="https://giffiles.alphacoders.com/398/3987.gif" width="760" height="360" alt="Anime nature" />
+    <img src="https://giffiles.alphacoders.com/398/3987.gif" width="7=560" height="560" alt="Anime nature" />
   </a>
 </div>
 
