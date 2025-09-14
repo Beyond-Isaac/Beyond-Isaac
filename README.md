@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Isaac Here!</h1></summary>
 </div>
     
-<!--Informaçõ  	es-->
+<!--Informações-->
 <p align="center">
   Hi, I'm Isaac!
 
@@ -12,7 +12,7 @@
 </p>
 
 <!-- Links -->
-[![Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oakkj_/?next=%2Fexplore%2F)  <h2 align="center"></h2>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oakkj_/?next=%2Fexplore%2F)
 
 
 **<!-- GIF -->**
