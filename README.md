@@ -5,14 +5,14 @@
 </div>
     
 <!--Informaçõ  	es-->
-<p>
+<p align="center">
   Hi, I'm Isaac!
 
   -  I am looking for my first job opportunity. 
 </p>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oakkj_/?next=%2Fexplore%2F)
+<h2 align="center">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oakkj_/?next=%2Fexplore%2F) </h2>
 
 
 **<!-- GIF -->**
