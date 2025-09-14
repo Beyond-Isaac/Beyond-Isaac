@@ -42,6 +42,10 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Beyond-Isaac&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
 </p>
 
