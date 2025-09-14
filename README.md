@@ -1,9 +1,8 @@
-<h1 align="center">Isaac Here! 🔥🔥 </h1>
+<h1 align="center">Isaac Here! 🔥🔥 <br> <br> </h1>
 
 <p align="center">
-  Hi, I'm Isaac! <br>
-  I'm currently learning and looking for my first job opportunity. <br>
-  Passionate about technology, coding, and solving real-world problems.
+  Hi, I'm Isaac! <br> <br>
+  I'm currently learning and looking for my first job opportunity.
 </p>
 
 <!-- Contato / Links -->
@@ -11,21 +10,22 @@
   <a href="https://www.instagram.com/oakkj_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-link-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/isaac-carvalho-b697b129b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seuemail@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://www.linkedin.com/in/isaac-carvalho-b697b129b/" alt="Email"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/473/4731.gif" alt="GIF animado" height="200"/>
+  <img src="https://giffiles.alphacoders.com/473/4731.gif" alt="GIF animado" width="560" height="560"/>
 </div>
 
 ---
 
-### 🛠️ Skills & Tools
+<h1 align="center">🛠️ Skills & Tools</h1>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
