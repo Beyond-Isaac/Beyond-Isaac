@@ -4,6 +4,8 @@
   Desenvolvedor Front-End e Back-End.
 </p>
 
+---
+
 <div align="center">
     <img src="https://giffiles.alphacoders.com/398/3987.gif" width="7=560" height="560" alt="Anime nature" />
   </a>
@@ -13,11 +15,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beyond-Isaac/Beyond-Isaac/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beyond-Isaac/Beyond-Isaac/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Beyond-Isaac/Beyond-Isaac/output/pacman-contribution-graph.svg">
-</picture>
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
