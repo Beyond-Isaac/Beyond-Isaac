@@ -17,7 +17,7 @@
 
 **<!-- GIF -->**
 **<p align="left">**
-  **<img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">**
+  **<img align="center" src="https://giffiles.alphacoders.com/473/4731.gif" alt="tree">**
 **</p>**
   
   <!-- Skills or my habilidades: Tools -->
@@ -26,10 +26,6 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
-<div align="center">
-    <img src="https://giffiles.alphacoders.com/473/4731.gif" width="7=560" height="560" alt="Anime nature" />
-  </a>
-</div>
 
 
 
