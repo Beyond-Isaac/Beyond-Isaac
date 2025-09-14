@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<div align="center"> <br> <br> 
+<div align="center"> <br> 
   <img src="https://giffiles.alphacoders.com/473/4731.gif" alt="GIF animado" width="560" height="560"/>
   <br> <br>
 </div>
