@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">🛠️ Skills & Tools <br> <br> </h2>
+### 🛠️ Skills & Tools:
 
 <p align="center"> <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode"/>
@@ -39,18 +39,18 @@
   <br> <br>
 </p>
 
----
 
-<!-- <p align="center">
+
+<!--  --- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Beyond-Isaac&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
-</p> -->
-
+</p>  -->
 
 ---
+
 
 > *"Quando se olha muito tempo para um abismo, o abismo olha de volta para você."*  
 > — **Nietzsche**
