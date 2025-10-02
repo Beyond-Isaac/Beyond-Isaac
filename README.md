@@ -1,4 +1,4 @@
-<h1 align="center">Isaac Here! 🔥🔥 <br> <br> </h1>
+<h1 align="center">Isaac Here! <br> <br> </h1>
 
 <p align="center">
   Hi, I'm Isaac! <br> <br>
