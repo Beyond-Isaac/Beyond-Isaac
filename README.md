@@ -5,14 +5,14 @@
   I'm currently learning and looking for my first job opportunity.
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://www.instagram.com/oakkj_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/isaac-carvalho-b51698386/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   
 <!--  <a href="" target="blank">
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" height="50" alt="ElePHPant">
+  <img src="https://d1zviajkun9gxg.cloudfront.net/user/prod/2020/01/05/fastpages-244f2d28-b2ce-4c69-a443-4c5d5b6e62eb.png" height="50" alt="ElePHPant">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
   <br> <br>
