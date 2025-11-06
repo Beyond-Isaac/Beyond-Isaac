@@ -53,8 +53,8 @@
 ---
 
 
-> *"Quando se olha muito tempo para um abismo, o abismo olha de volta para você."*  
-> — **Nietzsche**
+> *"Viva como se fosse morrer amanhã e aprenda como se fosse viver para sempre"*  
+> — **Mohandas Karamchand Gandhi**
 
 <div align="center"> <br> 
   <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="660" height="660"/>
