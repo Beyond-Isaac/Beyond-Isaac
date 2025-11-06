@@ -1,11 +1,11 @@
-<h1 align="center" style="font-size: 3em; margin-bottom: 0.2em;">Isaac Here!</h1>
+<h1 align="center" style="font-size: 3em; margin-bottom: 0.2em; color: #8A2BE2;">Isaac Here!</h1>
 
 <p align="center">
-  <span style="font-size: 1.5em; font-weight: bold; color: #8A2BE2;"> Hi, I'm Isaac!</span>
+  <span style="font-size: 2em; font-weight: bold; color: #8A2BE2;"> Hi, I'm Isaac!</span>
 </p>
 
 <div align="center" style="margin-top: -1em;">
-  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif" alt="GIF animado" width="560" height="560"/>
+  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif" alt="GIF animado" width="500" height="500"/>
 </div>
 
 <!-- <p align="center"> 
@@ -55,6 +55,6 @@
 > — **Mohandas Karamchand Gandhi**
 
 <div align="center"> <br> 
-  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="560" height="560"/>
+  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="500" height="500"/>
   <br> <br>
 </div>
