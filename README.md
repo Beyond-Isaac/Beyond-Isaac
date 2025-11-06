@@ -21,7 +21,7 @@
 </p>  -->
 
 <div align="center"> <br> 
-  <img src="https://giffiles.alphacoders.com/473/4731.gif" alt="GIF animado" width="560" height="560"/>
+  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="760" height="760"/>
   <br> <br>
 </div>
 
