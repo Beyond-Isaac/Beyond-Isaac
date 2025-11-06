@@ -1,9 +1,12 @@
-<h1 align="center">Isaac Here! <br> <br> </h1>
+<h1 align="center" style="font-size: 3em; margin-bottom: 0.2em;">Isaac Here!</h1>
 
 <p align="center">
-  Hi, I'm Isaac! <br> <br>
-  I'm currently learning and looking for my first job opportunity.
+  <span style="font-size: 1.5em; font-weight: bold; color: #8A2BE2;"> Hi, I'm Isaac!</span>
 </p>
+
+<div align="center" style="margin-top: -1em;">
+  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif" alt="GIF animado" width="560" height="560"/>
+</div>
 
 <!-- <p align="center"> 
   <a href="https://www.instagram.com/oakkj_/" target="blank">
@@ -19,11 +22,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>  -->
-
-<div align="center"> <br> 
-  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif" alt="GIF animado" width="760" height="760"/>
-  <br> <br>
-</div>
 
 ---
 
@@ -57,6 +55,6 @@
 > — **Mohandas Karamchand Gandhi**
 
 <div align="center"> <br> 
-  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="660" height="660"/>
+  <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="560" height="560"/>
   <br> <br>
 </div>
