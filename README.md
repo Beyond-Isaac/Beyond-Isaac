@@ -23,7 +23,7 @@
   </a>
 </p>  -->
 
----
+<img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 ### 🛠️ Skills & Tools:
 
@@ -48,7 +48,7 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
 </p>  -->
 
----
+<img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 
 > *"Viva como se fosse morrer amanhã e aprenda como se fosse viver para sempre"*  
