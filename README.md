@@ -8,20 +8,7 @@
   <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif" alt="GIF animado" width="500" height="500"/>
 </div>
 
-<!-- <p align="center"> 
-  <a href="https://www.instagram.com/oakkj_/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/isaac-carvalho-b51698386/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
-  &nbsp;&nbsp;
-  
-<!--  <a href="" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>  -->
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
@@ -38,23 +25,10 @@
   <br> <br>
 </p>
 
-
-
-<!--  --- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beyond-Isaac&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
-</p>  -->
-
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
-
-
-> *"Viva como se fosse morrer amanhã e aprenda como se fosse viver para sempre"*  
-> — **Mohandas Karamchand Gandhi**
 
 <div align="center"> <br> 
   <img src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-2.gif" alt="GIF animado" width="500" height="500"/>
   <br> <br>
 </div>
+
