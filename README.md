@@ -4,20 +4,31 @@
 
 ### What I'm perfecting:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=7a1c2b)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=7a1c2b)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=7a1c2b)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=7a1c2b)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=7a1c2b)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=7a1c2b)
+![Angular](https://img.shields.io/badge/Angular-111?style=for-the-badge&logo=angular&logoColor=7a1c2b)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=7a1c2b)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=7a1c2b)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=7a1c2b)
+
+---
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beyond-Isaac&show_icons=true&count_private=true&hide_border=true&title_color=7a1c2b&icon_color=7a1c2b&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beyond-Isaac&layout=compact&hide_border=true&title_color=7a1c2b&text_color=7a1c2b&bg_color=0d1117"/>
+</div>
 
 ---
 
 <p align="center">
   <img src="game.gif" alt="GitHub Space Shooter" width="850px">
 </p>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Beyond-Isaac&style=flat-square&color=7a1c2b&label=VISITAS) 
+</div>
