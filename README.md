@@ -1,4 +1,4 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Hello%2C+I+am+Isaac+&#129381" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Hello%2C+I+am+Isaac" />
 
 ---
 
