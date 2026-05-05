@@ -4,6 +4,8 @@
 
 ### What I'm perfecting:
 
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5&logoColor=7a1c2b)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=7a1c2b)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=7a1c2b)
@@ -14,6 +16,8 @@
 ![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=7a1c2b)
 ![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=7a1c2b)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=7a1c2b)
+
+</div>
 
 ---
 
