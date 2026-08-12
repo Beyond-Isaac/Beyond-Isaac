@@ -21,13 +21,6 @@
 
 ---
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beyond-Isaac&show_icons=true&count_private=true&hide_border=true&title_color=7a1c2b&icon_color=7a1c2b&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beyond-Isaac&layout=compact&hide_border=true&title_color=7a1c2b&text_color=7a1c2b&bg_color=0d1117"/>
-</div>
-
----
-
 <p align="center">
   <img src="game.gif" alt="GitHub Space Shooter" width="850px">
 </p>
