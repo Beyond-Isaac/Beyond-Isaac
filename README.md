@@ -24,8 +24,3 @@
 <p align="center">
   <img src="game.gif" alt="GitHub Space Shooter" width="850px">
 </p>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Beyond-Isaac&style=flat-square&color=7a1c2b&label=VISITAS) 
-</div>
